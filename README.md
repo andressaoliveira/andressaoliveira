@@ -1,4 +1,5 @@
-### Hi there 👋
+### Bem-vinda ao Mundo da Programação! 🌟🚀
+
 Eu sou a Andressa, engenheira de software no Itaú, educadora na CoderHouse e produtora de conteúdo no @andressa.codegirl. Compartilho minhas experiências e meus conhecimentos com a missão de inspirar mulheres incríveis, como você, a desbravar o mundo da programação e transformar suas vidas.
 
 
