@@ -1,3 +1,4 @@
+  
 # Bem-vinda ao Mundo da Programação! 🌟🚀👩🏼‍💻
 
 Eu sou a Andressa, engenheira de software no Itaú, educadora na CoderHouse e produtora de conteúdo no @andressa.codegirl. Compartilho minhas experiências e meus conhecimentos com a missão de inspirar mulheres incríveis, como você, a desbravar o mundo da programação e transformar suas vidas.
@@ -15,6 +16,7 @@ Junte-se a mim, venha ser uma #CodeGirl e faça parte dessa revolução! Acredit
 
 ## 📱 Contatos:
 <div>
+   <a href="https://codegirl.dev.br/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/CodeGirl-FF78B5?style=for-the-badge&logo=htmx&logoColor=white"></a>
   <a href="https://instagram.com/andressa.codegirl" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andressa.pco@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-oliveira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
